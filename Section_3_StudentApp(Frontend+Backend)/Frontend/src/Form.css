@@ -1,0 +1,33 @@
+.image{
+    text-align: center;
+   
+  }
+  
+  .login {
+    width: 500px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: #e9ecef;
+  
+  }
+  
+  .login form {
+    font-size: 20px;
+  }
+  
+  .login form .form-group {
+    margin-bottom: 12px;
+  }
+  
+  .login form input[type="submit"] {
+    font-size: 20px;
+    margin-top: 15px;
+  }
+  
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
